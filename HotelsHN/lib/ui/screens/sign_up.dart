@@ -2,10 +2,10 @@ import 'package:flutter/material.dart';
 import 'package:another_flushbar/flushbar.dart';
 import 'package:flutter/services.dart';
 
-import 'package:foodapp/models/user.dart';
-import 'package:foodapp/util/auth.dart';
-import 'package:foodapp/util/validator.dart';
-import 'package:foodapp/ui/widgets/loading.dart';
+import 'package:HotelsHN/models/user.dart';
+import 'package:HotelsHN/util/auth.dart';
+import 'package:HotelsHN/util/validator.dart';
+import 'package:HotelsHN/ui/widgets/loading.dart';
 
 class SignUpScreen extends StatefulWidget {
   _SignUpScreenState createState() => _SignUpScreenState();

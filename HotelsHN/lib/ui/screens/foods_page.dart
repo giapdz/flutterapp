@@ -1,7 +1,7 @@
 import 'package:flutter/material.dart';
-import 'package:foodapp/fake_data.dart';
-import 'package:foodapp/models/category.dart';
-import 'package:foodapp/models/food.dart';
+import 'package:HotelsHN/fake_data.dart';
+import 'package:HotelsHN/models/category.dart';
+import 'package:HotelsHN/models/food.dart';
 import 'detail_food_page.dart';
 
 class FoodsPage extends StatelessWidget {

@@ -4,12 +4,12 @@ import 'package:cloud_firestore/cloud_firestore.dart';
 import 'package:firebase_auth/firebase_auth.dart';
 import 'package:firebase_messaging/firebase_messaging.dart';
 import 'package:flutter/material.dart';
-import 'package:foodapp/models/request.dart';
-import 'package:foodapp/models/state.dart';
-import 'package:foodapp/ui/widgets/card_infomation.dart';
-import 'package:foodapp/util/auth.dart';
-import 'package:foodapp/util/state_widget.dart';
-import 'package:foodapp/wemap/route.dart';
+import 'package:HotelsHN/models/request.dart';
+import 'package:HotelsHN/models/state.dart';
+import 'package:HotelsHN/ui/widgets/card_infomation.dart';
+import 'package:HotelsHN/util/auth.dart';
+import 'package:HotelsHN/util/state_widget.dart';
+import 'package:HotelsHN/wemap/route.dart';
 import 'package:wemapgl/wemapgl.dart';
 import 'package:flutter_speed_dial/flutter_speed_dial.dart';
 

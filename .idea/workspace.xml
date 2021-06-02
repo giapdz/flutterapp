@@ -22,7 +22,187 @@
     <select />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="3c2702de-5659-43ef-a9e0-9605676476dd" name="Default Changelist" comment="" />
+    <list default="true" id="3c2702de-5659-43ef-a9e0-9605676476dd" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/SOSMap.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/HotelsHN.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/runConfigurations.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/foodapp/.flutter-plugins" beforeDir="false" afterPath="$PROJECT_DIR$/HotelsHN/.flutter-plugins" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/foodapp/.flutter-plugins-dependencies" beforeDir="false" afterPath="$PROJECT_DIR$/HotelsHN/.flutter-plugins-dependencies" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/foodapp/.idea/foodapp.iml" beforeDir="false" afterPath="$PROJECT_DIR$/HotelsHN/.idea/foodapp.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/foodapp/.idea/libraries/Dart_Packages.xml" beforeDir="false" afterPath="$PROJECT_DIR$/HotelsHN/.idea/libraries/Dart_Packages.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/foodapp/.idea/libraries/Dart_SDK.xml" beforeDir="false" afterPath="$PROJECT_DIR$/HotelsHN/.idea/libraries/Dart_SDK.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/foodapp/.idea/libraries/Flutter_Plugins.xml" beforeDir="false" afterPath="$PROJECT_DIR$/HotelsHN/.idea/libraries/Flutter_Plugins.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/foodapp/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/HotelsHN/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/foodapp/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/HotelsHN/.idea/modules.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/foodapp/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/HotelsHN/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/foodapp/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/HotelsHN/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/foodapp/.metadata" beforeDir="false" afterPath="$PROJECT_DIR$/HotelsHN/.metadata" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/foodapp/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/HotelsHN/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/foodapp/android/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/HotelsHN/android/.gitignore" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/foodapp/android/app/build.gradle" beforeDir="false" afterPath="$PROJECT_DIR$/HotelsHN/android/app/build.gradle" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/foodapp/android/app/google-services.json" beforeDir="false" afterPath="$PROJECT_DIR$/HotelsHN/android/app/google-services.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/foodapp/android/app/src/debug/AndroidManifest.xml" beforeDir="false" afterPath="$PROJECT_DIR$/HotelsHN/android/app/src/debug/AndroidManifest.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/foodapp/android/app/src/main/AndroidManifest.xml" beforeDir="false" afterPath="$PROJECT_DIR$/HotelsHN/android/app/src/main/AndroidManifest.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/foodapp/android/app/src/main/kotlin/com.foodapp/MainActivity.kt" beforeDir="false" afterPath="$PROJECT_DIR$/HotelsHN/android/app/src/main/kotlin/com.foodapp/MainActivity.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/foodapp/android/app/src/main/res/drawable-hdpi/ic_stat_icon.png" beforeDir="false" afterPath="$PROJECT_DIR$/HotelsHN/android/app/src/main/res/drawable-hdpi/ic_stat_icon.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/foodapp/android/app/src/main/res/drawable-hdpi/splash.png" beforeDir="false" afterPath="$PROJECT_DIR$/HotelsHN/android/app/src/main/res/drawable-hdpi/splash.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/foodapp/android/app/src/main/res/drawable-mdpi/ic_stat_icon.png" beforeDir="false" afterPath="$PROJECT_DIR$/HotelsHN/android/app/src/main/res/drawable-mdpi/ic_stat_icon.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/foodapp/android/app/src/main/res/drawable-mdpi/splash.png" beforeDir="false" afterPath="$PROJECT_DIR$/HotelsHN/android/app/src/main/res/drawable-mdpi/splash.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/foodapp/android/app/src/main/res/drawable-v21/launch_background.xml" beforeDir="false" afterPath="$PROJECT_DIR$/HotelsHN/android/app/src/main/res/drawable-v21/launch_background.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/foodapp/android/app/src/main/res/drawable-xhdpi/ic_stat_icon.png" beforeDir="false" afterPath="$PROJECT_DIR$/HotelsHN/android/app/src/main/res/drawable-xhdpi/ic_stat_icon.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/foodapp/android/app/src/main/res/drawable-xhdpi/splash.png" beforeDir="false" afterPath="$PROJECT_DIR$/HotelsHN/android/app/src/main/res/drawable-xhdpi/splash.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/foodapp/android/app/src/main/res/drawable-xxhdpi/ic_stat_icon.png" beforeDir="false" afterPath="$PROJECT_DIR$/HotelsHN/android/app/src/main/res/drawable-xxhdpi/ic_stat_icon.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/foodapp/android/app/src/main/res/drawable-xxhdpi/splash.png" beforeDir="false" afterPath="$PROJECT_DIR$/HotelsHN/android/app/src/main/res/drawable-xxhdpi/splash.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/foodapp/android/app/src/main/res/drawable-xxxhdpi/ic_stat_icon.png" beforeDir="false" afterPath="$PROJECT_DIR$/HotelsHN/android/app/src/main/res/drawable-xxxhdpi/ic_stat_icon.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/foodapp/android/app/src/main/res/drawable-xxxhdpi/splash.png" beforeDir="false" afterPath="$PROJECT_DIR$/HotelsHN/android/app/src/main/res/drawable-xxxhdpi/splash.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/foodapp/android/app/src/main/res/drawable/launch_background.xml" beforeDir="false" afterPath="$PROJECT_DIR$/HotelsHN/android/app/src/main/res/drawable/launch_background.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/foodapp/android/app/src/main/res/mipmap-hdpi/ic_launcher.png" beforeDir="false" afterPath="$PROJECT_DIR$/HotelsHN/android/app/src/main/res/mipmap-hdpi/ic_launcher.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/foodapp/android/app/src/main/res/mipmap-hdpi/launcher_icon.png" beforeDir="false" afterPath="$PROJECT_DIR$/HotelsHN/android/app/src/main/res/mipmap-hdpi/launcher_icon.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/foodapp/android/app/src/main/res/mipmap-mdpi/ic_launcher.png" beforeDir="false" afterPath="$PROJECT_DIR$/HotelsHN/android/app/src/main/res/mipmap-mdpi/ic_launcher.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/foodapp/android/app/src/main/res/mipmap-mdpi/launcher_icon.png" beforeDir="false" afterPath="$PROJECT_DIR$/HotelsHN/android/app/src/main/res/mipmap-mdpi/launcher_icon.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/foodapp/android/app/src/main/res/mipmap-xhdpi/ic_launcher.png" beforeDir="false" afterPath="$PROJECT_DIR$/HotelsHN/android/app/src/main/res/mipmap-xhdpi/ic_launcher.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/foodapp/android/app/src/main/res/mipmap-xhdpi/launcher_icon.png" beforeDir="false" afterPath="$PROJECT_DIR$/HotelsHN/android/app/src/main/res/mipmap-xhdpi/launcher_icon.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/foodapp/android/app/src/main/res/mipmap-xxhdpi/ic_launcher.png" beforeDir="false" afterPath="$PROJECT_DIR$/HotelsHN/android/app/src/main/res/mipmap-xxhdpi/ic_launcher.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/foodapp/android/app/src/main/res/mipmap-xxhdpi/launcher_icon.png" beforeDir="false" afterPath="$PROJECT_DIR$/HotelsHN/android/app/src/main/res/mipmap-xxhdpi/launcher_icon.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/foodapp/android/app/src/main/res/mipmap-xxxhdpi/ic_launcher.png" beforeDir="false" afterPath="$PROJECT_DIR$/HotelsHN/android/app/src/main/res/mipmap-xxxhdpi/ic_launcher.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/foodapp/android/app/src/main/res/mipmap-xxxhdpi/launcher_icon.png" beforeDir="false" afterPath="$PROJECT_DIR$/HotelsHN/android/app/src/main/res/mipmap-xxxhdpi/launcher_icon.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/foodapp/android/app/src/main/res/values-night/styles.xml" beforeDir="false" afterPath="$PROJECT_DIR$/HotelsHN/android/app/src/main/res/values-night/styles.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/foodapp/android/app/src/main/res/values/colors.xml" beforeDir="false" afterPath="$PROJECT_DIR$/HotelsHN/android/app/src/main/res/values/colors.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/foodapp/android/app/src/main/res/values/styles.xml" beforeDir="false" afterPath="$PROJECT_DIR$/HotelsHN/android/app/src/main/res/values/styles.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/foodapp/android/app/src/profile/AndroidManifest.xml" beforeDir="false" afterPath="$PROJECT_DIR$/HotelsHN/android/app/src/profile/AndroidManifest.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/foodapp/android/build.gradle" beforeDir="false" afterPath="$PROJECT_DIR$/HotelsHN/android/build.gradle" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/foodapp/android/gradle.properties" beforeDir="false" afterPath="$PROJECT_DIR$/HotelsHN/android/gradle.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/foodapp/android/gradle/wrapper/gradle-wrapper.properties" beforeDir="false" afterPath="$PROJECT_DIR$/HotelsHN/android/gradle/wrapper/gradle-wrapper.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/foodapp/android/settings.gradle" beforeDir="false" afterPath="$PROJECT_DIR$/HotelsHN/android/settings.gradle" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/foodapp/android/settings_aar.gradle" beforeDir="false" afterPath="$PROJECT_DIR$/HotelsHN/android/settings_aar.gradle" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/foodapp/assets/fill/cat_silhouette_pattern.png" beforeDir="false" afterPath="$PROJECT_DIR$/HotelsHN/assets/fill/cat_silhouette_pattern.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/foodapp/assets/fonts/Itim/Itim-Regular.ttf" beforeDir="false" afterPath="$PROJECT_DIR$/HotelsHN/assets/fonts/Itim/Itim-Regular.ttf" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/foodapp/assets/fonts/Itim/OFL.txt" beforeDir="false" afterPath="$PROJECT_DIR$/HotelsHN/assets/fonts/Itim/OFL.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/foodapp/assets/fonts/Sunshiney/LICENSE.txt" beforeDir="false" afterPath="$PROJECT_DIR$/HotelsHN/assets/fonts/Sunshiney/LICENSE.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/foodapp/assets/fonts/Sunshiney/Sunshiney-Regular.ttf" beforeDir="false" afterPath="$PROJECT_DIR$/HotelsHN/assets/fonts/Sunshiney/Sunshiney-Regular.ttf" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/foodapp/assets/geojson/line-samples.geojson" beforeDir="false" afterPath="$PROJECT_DIR$/HotelsHN/assets/geojson/line-samples.geojson" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/foodapp/assets/geojson/ne_10m_ports.geojson" beforeDir="false" afterPath="$PROJECT_DIR$/HotelsHN/assets/geojson/ne_10m_ports.geojson" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/foodapp/assets/geojson/polygon-samples.geojson" beforeDir="false" afterPath="$PROJECT_DIR$/HotelsHN/assets/geojson/polygon-samples.geojson" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/foodapp/assets/gif/running.gif" beforeDir="false" afterPath="$PROJECT_DIR$/HotelsHN/assets/gif/running.gif" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/foodapp/assets/gif/running1.gif" beforeDir="false" afterPath="$PROJECT_DIR$/HotelsHN/assets/gif/running1.gif" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/foodapp/assets/icon/icon.png" beforeDir="false" afterPath="$PROJECT_DIR$/HotelsHN/assets/icon/icon.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/foodapp/assets/images/as.png" beforeDir="false" afterPath="$PROJECT_DIR$/HotelsHN/assets/images/as.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/foodapp/assets/images/default.png" beforeDir="false" afterPath="$PROJECT_DIR$/HotelsHN/assets/images/default.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/foodapp/assets/images/email_icon.png" beforeDir="false" afterPath="$PROJECT_DIR$/HotelsHN/assets/images/email_icon.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/foodapp/assets/images/loading.gif" beforeDir="false" afterPath="$PROJECT_DIR$/HotelsHN/assets/images/loading.gif" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/foodapp/assets/images/logo.png" beforeDir="false" afterPath="$PROJECT_DIR$/HotelsHN/assets/images/logo.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/foodapp/assets/images/password_icon.png" beforeDir="false" afterPath="$PROJECT_DIR$/HotelsHN/assets/images/password_icon.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/foodapp/assets/images/powered_by.png" beforeDir="false" afterPath="$PROJECT_DIR$/HotelsHN/assets/images/powered_by.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/foodapp/assets/images/user_icon.png" beforeDir="false" afterPath="$PROJECT_DIR$/HotelsHN/assets/images/user_icon.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/foodapp/assets/symbols/2.0x/custom-icon.png" beforeDir="false" afterPath="$PROJECT_DIR$/HotelsHN/assets/symbols/2.0x/custom-icon.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/foodapp/assets/symbols/2.0x/destination.png" beforeDir="false" afterPath="$PROJECT_DIR$/HotelsHN/assets/symbols/2.0x/destination.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/foodapp/assets/symbols/2.0x/help.png" beforeDir="false" afterPath="$PROJECT_DIR$/HotelsHN/assets/symbols/2.0x/help.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/foodapp/assets/symbols/2.0x/origin.png" beforeDir="false" afterPath="$PROJECT_DIR$/HotelsHN/assets/symbols/2.0x/origin.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/foodapp/assets/symbols/3.0x/custom-icon.png" beforeDir="false" afterPath="$PROJECT_DIR$/HotelsHN/assets/symbols/3.0x/custom-icon.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/foodapp/assets/symbols/3.0x/destination.png" beforeDir="false" afterPath="$PROJECT_DIR$/HotelsHN/assets/symbols/3.0x/destination.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/foodapp/assets/symbols/3.0x/help.png" beforeDir="false" afterPath="$PROJECT_DIR$/HotelsHN/assets/symbols/3.0x/help.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/foodapp/assets/symbols/3.0x/origin.png" beforeDir="false" afterPath="$PROJECT_DIR$/HotelsHN/assets/symbols/3.0x/origin.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/foodapp/assets/symbols/custom-icon.png" beforeDir="false" afterPath="$PROJECT_DIR$/HotelsHN/assets/symbols/custom-icon.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/foodapp/assets/symbols/destination.png" beforeDir="false" afterPath="$PROJECT_DIR$/HotelsHN/assets/symbols/destination.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/foodapp/assets/symbols/help.png" beforeDir="false" afterPath="$PROJECT_DIR$/HotelsHN/assets/symbols/help.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/foodapp/assets/symbols/origin.png" beforeDir="false" afterPath="$PROJECT_DIR$/HotelsHN/assets/symbols/origin.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/foodapp/ios/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/HotelsHN/ios/.gitignore" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/foodapp/ios/Flutter/AppFrameworkInfo.plist" beforeDir="false" afterPath="$PROJECT_DIR$/HotelsHN/ios/Flutter/AppFrameworkInfo.plist" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/foodapp/ios/Flutter/Debug.xcconfig" beforeDir="false" afterPath="$PROJECT_DIR$/HotelsHN/ios/Flutter/Debug.xcconfig" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/foodapp/ios/Flutter/Release.xcconfig" beforeDir="false" afterPath="$PROJECT_DIR$/HotelsHN/ios/Flutter/Release.xcconfig" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/foodapp/ios/Podfile" beforeDir="false" afterPath="$PROJECT_DIR$/HotelsHN/ios/Podfile" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/foodapp/ios/Podfile.lock" beforeDir="false" afterPath="$PROJECT_DIR$/HotelsHN/ios/Podfile.lock" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/foodapp/ios/Runner.xcodeproj/project.pbxproj" beforeDir="false" afterPath="$PROJECT_DIR$/HotelsHN/ios/Runner.xcodeproj/project.pbxproj" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/foodapp/ios/Runner.xcodeproj/project.xcworkspace/contents.xcworkspacedata" beforeDir="false" afterPath="$PROJECT_DIR$/HotelsHN/ios/Runner.xcodeproj/project.xcworkspace/contents.xcworkspacedata" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/foodapp/ios/Runner.xcodeproj/project.xcworkspace/xcshareddata/IDEWorkspaceChecks.plist" beforeDir="false" afterPath="$PROJECT_DIR$/HotelsHN/ios/Runner.xcodeproj/project.xcworkspace/xcshareddata/IDEWorkspaceChecks.plist" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/foodapp/ios/Runner.xcodeproj/project.xcworkspace/xcshareddata/WorkspaceSettings.xcsettings" beforeDir="false" afterPath="$PROJECT_DIR$/HotelsHN/ios/Runner.xcodeproj/project.xcworkspace/xcshareddata/WorkspaceSettings.xcsettings" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/foodapp/ios/Runner.xcodeproj/xcshareddata/xcschemes/Runner.xcscheme" beforeDir="false" afterPath="$PROJECT_DIR$/HotelsHN/ios/Runner.xcodeproj/xcshareddata/xcschemes/Runner.xcscheme" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/foodapp/ios/Runner.xcworkspace/contents.xcworkspacedata" beforeDir="false" afterPath="$PROJECT_DIR$/HotelsHN/ios/Runner.xcworkspace/contents.xcworkspacedata" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/foodapp/ios/Runner.xcworkspace/xcshareddata/IDEWorkspaceChecks.plist" beforeDir="false" afterPath="$PROJECT_DIR$/HotelsHN/ios/Runner.xcworkspace/xcshareddata/IDEWorkspaceChecks.plist" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/foodapp/ios/Runner.xcworkspace/xcshareddata/WorkspaceSettings.xcsettings" beforeDir="false" afterPath="$PROJECT_DIR$/HotelsHN/ios/Runner.xcworkspace/xcshareddata/WorkspaceSettings.xcsettings" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/foodapp/ios/Runner/AppDelegate.swift" beforeDir="false" afterPath="$PROJECT_DIR$/HotelsHN/ios/Runner/AppDelegate.swift" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/foodapp/ios/Runner/Assets.xcassets/AppIcon.appiconset/Contents.json" beforeDir="false" afterPath="$PROJECT_DIR$/HotelsHN/ios/Runner/Assets.xcassets/AppIcon.appiconset/Contents.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/foodapp/ios/Runner/Assets.xcassets/AppIcon.appiconset/Icon-App-1024x1024@1x.png" beforeDir="false" afterPath="$PROJECT_DIR$/HotelsHN/ios/Runner/Assets.xcassets/AppIcon.appiconset/Icon-App-1024x1024@1x.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/foodapp/ios/Runner/Assets.xcassets/AppIcon.appiconset/Icon-App-20x20@1x.png" beforeDir="false" afterPath="$PROJECT_DIR$/HotelsHN/ios/Runner/Assets.xcassets/AppIcon.appiconset/Icon-App-20x20@1x.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/foodapp/ios/Runner/Assets.xcassets/AppIcon.appiconset/Icon-App-20x20@2x.png" beforeDir="false" afterPath="$PROJECT_DIR$/HotelsHN/ios/Runner/Assets.xcassets/AppIcon.appiconset/Icon-App-20x20@2x.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/foodapp/ios/Runner/Assets.xcassets/AppIcon.appiconset/Icon-App-20x20@3x.png" beforeDir="false" afterPath="$PROJECT_DIR$/HotelsHN/ios/Runner/Assets.xcassets/AppIcon.appiconset/Icon-App-20x20@3x.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/foodapp/ios/Runner/Assets.xcassets/AppIcon.appiconset/Icon-App-29x29@1x.png" beforeDir="false" afterPath="$PROJECT_DIR$/HotelsHN/ios/Runner/Assets.xcassets/AppIcon.appiconset/Icon-App-29x29@1x.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/foodapp/ios/Runner/Assets.xcassets/AppIcon.appiconset/Icon-App-29x29@2x.png" beforeDir="false" afterPath="$PROJECT_DIR$/HotelsHN/ios/Runner/Assets.xcassets/AppIcon.appiconset/Icon-App-29x29@2x.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/foodapp/ios/Runner/Assets.xcassets/AppIcon.appiconset/Icon-App-29x29@3x.png" beforeDir="false" afterPath="$PROJECT_DIR$/HotelsHN/ios/Runner/Assets.xcassets/AppIcon.appiconset/Icon-App-29x29@3x.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/foodapp/ios/Runner/Assets.xcassets/AppIcon.appiconset/Icon-App-40x40@1x.png" beforeDir="false" afterPath="$PROJECT_DIR$/HotelsHN/ios/Runner/Assets.xcassets/AppIcon.appiconset/Icon-App-40x40@1x.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/foodapp/ios/Runner/Assets.xcassets/AppIcon.appiconset/Icon-App-40x40@2x.png" beforeDir="false" afterPath="$PROJECT_DIR$/HotelsHN/ios/Runner/Assets.xcassets/AppIcon.appiconset/Icon-App-40x40@2x.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/foodapp/ios/Runner/Assets.xcassets/AppIcon.appiconset/Icon-App-40x40@3x.png" beforeDir="false" afterPath="$PROJECT_DIR$/HotelsHN/ios/Runner/Assets.xcassets/AppIcon.appiconset/Icon-App-40x40@3x.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/foodapp/ios/Runner/Assets.xcassets/AppIcon.appiconset/Icon-App-60x60@2x.png" beforeDir="false" afterPath="$PROJECT_DIR$/HotelsHN/ios/Runner/Assets.xcassets/AppIcon.appiconset/Icon-App-60x60@2x.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/foodapp/ios/Runner/Assets.xcassets/AppIcon.appiconset/Icon-App-60x60@3x.png" beforeDir="false" afterPath="$PROJECT_DIR$/HotelsHN/ios/Runner/Assets.xcassets/AppIcon.appiconset/Icon-App-60x60@3x.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/foodapp/ios/Runner/Assets.xcassets/AppIcon.appiconset/Icon-App-76x76@1x.png" beforeDir="false" afterPath="$PROJECT_DIR$/HotelsHN/ios/Runner/Assets.xcassets/AppIcon.appiconset/Icon-App-76x76@1x.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/foodapp/ios/Runner/Assets.xcassets/AppIcon.appiconset/Icon-App-76x76@2x.png" beforeDir="false" afterPath="$PROJECT_DIR$/HotelsHN/ios/Runner/Assets.xcassets/AppIcon.appiconset/Icon-App-76x76@2x.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/foodapp/ios/Runner/Assets.xcassets/AppIcon.appiconset/Icon-App-83.5x83.5@2x.png" beforeDir="false" afterPath="$PROJECT_DIR$/HotelsHN/ios/Runner/Assets.xcassets/AppIcon.appiconset/Icon-App-83.5x83.5@2x.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/foodapp/ios/Runner/Assets.xcassets/LaunchBackground.imageset/Contents.json" beforeDir="false" afterPath="$PROJECT_DIR$/HotelsHN/ios/Runner/Assets.xcassets/LaunchBackground.imageset/Contents.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/foodapp/ios/Runner/Assets.xcassets/LaunchBackground.imageset/background.png" beforeDir="false" afterPath="$PROJECT_DIR$/HotelsHN/ios/Runner/Assets.xcassets/LaunchBackground.imageset/background.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/foodapp/ios/Runner/Assets.xcassets/LaunchImage.imageset/Contents.json" beforeDir="false" afterPath="$PROJECT_DIR$/HotelsHN/ios/Runner/Assets.xcassets/LaunchImage.imageset/Contents.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/foodapp/ios/Runner/Assets.xcassets/LaunchImage.imageset/LaunchImage.png" beforeDir="false" afterPath="$PROJECT_DIR$/HotelsHN/ios/Runner/Assets.xcassets/LaunchImage.imageset/LaunchImage.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/foodapp/ios/Runner/Assets.xcassets/LaunchImage.imageset/LaunchImage@2x.png" beforeDir="false" afterPath="$PROJECT_DIR$/HotelsHN/ios/Runner/Assets.xcassets/LaunchImage.imageset/LaunchImage@2x.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/foodapp/ios/Runner/Assets.xcassets/LaunchImage.imageset/LaunchImage@3x.png" beforeDir="false" afterPath="$PROJECT_DIR$/HotelsHN/ios/Runner/Assets.xcassets/LaunchImage.imageset/LaunchImage@3x.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/foodapp/ios/Runner/Assets.xcassets/LaunchImage.imageset/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/HotelsHN/ios/Runner/Assets.xcassets/LaunchImage.imageset/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/foodapp/ios/Runner/Base.lproj/LaunchScreen.storyboard" beforeDir="false" afterPath="$PROJECT_DIR$/HotelsHN/ios/Runner/Base.lproj/LaunchScreen.storyboard" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/foodapp/ios/Runner/Base.lproj/Main.storyboard" beforeDir="false" afterPath="$PROJECT_DIR$/HotelsHN/ios/Runner/Base.lproj/Main.storyboard" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/foodapp/ios/Runner/GoogleService-Info.plist" beforeDir="false" afterPath="$PROJECT_DIR$/HotelsHN/ios/Runner/GoogleService-Info.plist" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/foodapp/ios/Runner/Info.plist" beforeDir="false" afterPath="$PROJECT_DIR$/HotelsHN/ios/Runner/Info.plist" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/foodapp/ios/Runner/Runner-Bridging-Header.h" beforeDir="false" afterPath="$PROJECT_DIR$/HotelsHN/ios/Runner/Runner-Bridging-Header.h" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/foodapp/lib/fake_data.dart" beforeDir="false" afterPath="$PROJECT_DIR$/HotelsHN/lib/fake_data.dart" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/foodapp/lib/generated_plugin_registrant.dart" beforeDir="false" afterPath="$PROJECT_DIR$/HotelsHN/lib/generated_plugin_registrant.dart" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/foodapp/lib/main.dart" beforeDir="false" afterPath="$PROJECT_DIR$/HotelsHN/lib/main.dart" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/foodapp/lib/models/category.dart" beforeDir="false" afterPath="$PROJECT_DIR$/HotelsHN/lib/models/category.dart" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/foodapp/lib/models/food.dart" beforeDir="false" afterPath="$PROJECT_DIR$/HotelsHN/lib/models/food.dart" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/foodapp/lib/models/request.dart" beforeDir="false" afterPath="$PROJECT_DIR$/HotelsHN/lib/models/request.dart" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/foodapp/lib/models/settings.dart" beforeDir="false" afterPath="$PROJECT_DIR$/HotelsHN/lib/models/settings.dart" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/foodapp/lib/models/state.dart" beforeDir="false" afterPath="$PROJECT_DIR$/HotelsHN/lib/models/state.dart" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/foodapp/lib/models/user.dart" beforeDir="false" afterPath="$PROJECT_DIR$/HotelsHN/lib/models/user.dart" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/foodapp/lib/ui/screens/categories_page.dart" beforeDir="false" afterPath="$PROJECT_DIR$/HotelsHN/lib/ui/screens/categories_page.dart" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/foodapp/lib/ui/screens/category_item.dart" beforeDir="false" afterPath="$PROJECT_DIR$/HotelsHN/lib/ui/screens/category_item.dart" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/foodapp/lib/ui/screens/detail_food_page.dart" beforeDir="false" afterPath="$PROJECT_DIR$/HotelsHN/lib/ui/screens/detail_food_page.dart" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/foodapp/lib/ui/screens/foods_page.dart" beforeDir="false" afterPath="$PROJECT_DIR$/HotelsHN/lib/ui/screens/foods_page.dart" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/foodapp/lib/ui/screens/forgot_password.dart" beforeDir="false" afterPath="$PROJECT_DIR$/HotelsHN/lib/ui/screens/forgot_password.dart" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/foodapp/lib/ui/screens/home.dart" beforeDir="false" afterPath="$PROJECT_DIR$/HotelsHN/lib/ui/screens/home.dart" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/foodapp/lib/ui/screens/login_page.dart" beforeDir="false" afterPath="$PROJECT_DIR$/HotelsHN/lib/ui/screens/login_page.dart" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/foodapp/lib/ui/screens/map.dart" beforeDir="false" afterPath="$PROJECT_DIR$/HotelsHN/lib/ui/screens/map.dart" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/foodapp/lib/ui/screens/profile.dart" beforeDir="false" afterPath="$PROJECT_DIR$/HotelsHN/lib/ui/screens/profile.dart" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/foodapp/lib/ui/screens/sign_in.dart" beforeDir="false" afterPath="$PROJECT_DIR$/HotelsHN/lib/ui/screens/sign_in.dart" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/foodapp/lib/ui/screens/sign_up.dart" beforeDir="false" afterPath="$PROJECT_DIR$/HotelsHN/lib/ui/screens/sign_up.dart" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/foodapp/lib/ui/screens/signup_page.dart" beforeDir="false" afterPath="$PROJECT_DIR$/HotelsHN/lib/ui/screens/signup_page.dart" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/foodapp/lib/ui/theme.dart" beforeDir="false" afterPath="$PROJECT_DIR$/HotelsHN/lib/ui/theme.dart" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/foodapp/lib/ui/widgets/card_infomation.dart" beforeDir="false" afterPath="$PROJECT_DIR$/HotelsHN/lib/ui/widgets/card_infomation.dart" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/foodapp/lib/ui/widgets/loading.dart" beforeDir="false" afterPath="$PROJECT_DIR$/HotelsHN/lib/ui/widgets/loading.dart" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/foodapp/lib/ui/widgets/rate_star.dart" beforeDir="false" afterPath="$PROJECT_DIR$/HotelsHN/lib/ui/widgets/rate_star.dart" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/foodapp/lib/util/auth.dart" beforeDir="false" afterPath="$PROJECT_DIR$/HotelsHN/lib/util/auth.dart" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/foodapp/lib/util/request.dart" beforeDir="false" afterPath="$PROJECT_DIR$/HotelsHN/lib/util/request.dart" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/foodapp/lib/util/state_widget.dart" beforeDir="false" afterPath="$PROJECT_DIR$/HotelsHN/lib/util/state_widget.dart" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/foodapp/lib/util/validator.dart" beforeDir="false" afterPath="$PROJECT_DIR$/HotelsHN/lib/util/validator.dart" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/foodapp/lib/wemap/animate_camera.dart" beforeDir="false" afterPath="$PROJECT_DIR$/HotelsHN/lib/wemap/animate_camera.dart" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/foodapp/lib/wemap/ePage.dart" beforeDir="false" afterPath="$PROJECT_DIR$/HotelsHN/lib/wemap/ePage.dart" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/foodapp/lib/wemap/full_map.dart" beforeDir="false" afterPath="$PROJECT_DIR$/HotelsHN/lib/wemap/full_map.dart" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/foodapp/lib/wemap/line.dart" beforeDir="false" afterPath="$PROJECT_DIR$/HotelsHN/lib/wemap/line.dart" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/foodapp/lib/wemap/main.dart" beforeDir="false" afterPath="$PROJECT_DIR$/HotelsHN/lib/wemap/main.dart" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/foodapp/lib/wemap/map_ui.dart" beforeDir="false" afterPath="$PROJECT_DIR$/HotelsHN/lib/wemap/map_ui.dart" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/foodapp/lib/wemap/move_camera.dart" beforeDir="false" afterPath="$PROJECT_DIR$/HotelsHN/lib/wemap/move_camera.dart" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/foodapp/lib/wemap/place_circle.dart" beforeDir="false" afterPath="$PROJECT_DIR$/HotelsHN/lib/wemap/place_circle.dart" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/foodapp/lib/wemap/place_fill.dart" beforeDir="false" afterPath="$PROJECT_DIR$/HotelsHN/lib/wemap/place_fill.dart" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/foodapp/lib/wemap/place_geojson.dart" beforeDir="false" afterPath="$PROJECT_DIR$/HotelsHN/lib/wemap/place_geojson.dart" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/foodapp/lib/wemap/place_symbol.dart" beforeDir="false" afterPath="$PROJECT_DIR$/HotelsHN/lib/wemap/place_symbol.dart" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/foodapp/lib/wemap/route.dart" beforeDir="false" afterPath="$PROJECT_DIR$/HotelsHN/lib/wemap/route.dart" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/foodapp/lib/wemap/scrolling_map.dart" beforeDir="false" afterPath="$PROJECT_DIR$/HotelsHN/lib/wemap/scrolling_map.dart" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/foodapp/lib/wemap/search.dart" beforeDir="false" afterPath="$PROJECT_DIR$/HotelsHN/lib/wemap/search.dart" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/foodapp/lib/wemap/simpleDirection.dart" beforeDir="false" afterPath="$PROJECT_DIR$/HotelsHN/lib/wemap/simpleDirection.dart" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/foodapp/pubspec.yaml" beforeDir="false" afterPath="$PROJECT_DIR$/HotelsHN/pubspec.yaml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/foodapp/test/widget_test.dart" beforeDir="false" afterPath="$PROJECT_DIR$/HotelsHN/test/widget_test.dart" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/foodapp/web/favicon.png" beforeDir="false" afterPath="$PROJECT_DIR$/HotelsHN/web/favicon.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/foodapp/web/icons/Icon-192.png" beforeDir="false" afterPath="$PROJECT_DIR$/HotelsHN/web/icons/Icon-192.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/foodapp/web/icons/Icon-512.png" beforeDir="false" afterPath="$PROJECT_DIR$/HotelsHN/web/icons/Icon-512.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/foodapp/web/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/HotelsHN/web/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/foodapp/web/manifest.json" beforeDir="false" afterPath="$PROJECT_DIR$/HotelsHN/web/manifest.json" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -38,7 +218,8 @@
   </component>
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
-    <property name="android.sdk.path" value="$USER_HOME$/AppData/Local/Android/Sdk" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="android.sdk.path" value="$PROJECT_DIR$/../AppData/Local/Android/Sdk" />
     <property name="dart.analysis.tool.window.visible" value="false" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="project.structure.last.edited" value="Project" />
@@ -47,7 +228,10 @@
     <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
     <property name="show.migrate.to.gradle.popup" value="false" />
   </component>
-  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="SpellCheckerSettings" BundledDictionaries="0" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" Dictionaries="0" CorrectionsLimit="5" DefaultDictionary="application-level" UseSingleDictionary="true" />
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
       <changelist id="3c2702de-5659-43ef-a9e0-9605676476dd" name="Default Changelist" comment="" />
@@ -68,6 +252,7 @@
         </entry>
       </map>
     </option>
+    <option name="oldMeFiltersMigrated" value="true" />
   </component>
   <component name="WindowStateProjectService">
     <state x="239" y="71" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1620748379094">

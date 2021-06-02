@@ -1,9 +1,9 @@
 import 'dart:io';
 import 'package:firebase_storage/firebase_storage.dart';
 import 'package:image_picker/image_picker.dart';
-import 'package:foodapp/models/user.dart';
-import 'package:foodapp/ui/screens/sign_in.dart';
-import 'package:foodapp/util/auth.dart';
+import 'package:HotelsHN/models/user.dart';
+import 'package:HotelsHN/ui/screens/sign_in.dart';
+import 'package:HotelsHN/util/auth.dart';
 import 'package:flutter/material.dart';
 import 'package:flutter/cupertino.dart';
 import 'package:rating_bar/rating_bar.dart';

@@ -2,10 +2,10 @@ import 'dart:async';
 import 'package:flutter/foundation.dart';
 import 'package:flutter/material.dart';
 import 'package:firebase_auth/firebase_auth.dart';
-import 'package:foodapp/models/state.dart';
-import 'package:foodapp/models/user.dart';
-import 'package:foodapp/models/settings.dart';
-import 'package:foodapp/util/auth.dart';
+import 'package:HotelsHN/models/state.dart';
+import 'package:HotelsHN/models/user.dart';
+import 'package:HotelsHN/models/settings.dart';
+import 'package:HotelsHN/util/auth.dart';
 
 class StateWidget extends StatefulWidget {
   final StateModel state;

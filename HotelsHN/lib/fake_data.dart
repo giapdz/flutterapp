@@ -1,6 +1,6 @@
 import 'package:flutter/material.dart';
-import 'package:foodapp/models/food.dart';
-import 'package:foodapp/models/category.dart';
+import 'package:HotelsHN/models/food.dart';
+import 'package:HotelsHN/models/category.dart';
 const FAKE_CATEGORIES = const [
   Category(id: 1, content: 'Khách sạn 1-2 sao', color: Colors.deepOrange),
   Category(id: 2, content: 'Khách sạn 3-4 sao', color: Colors.teal),

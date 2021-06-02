@@ -1,9 +1,9 @@
 import 'package:flutter/material.dart';
-import 'package:foodapp/models/request.dart';
-import 'package:foodapp/models/user.dart';
-import 'package:foodapp/ui/screens/profile.dart';
-import 'package:foodapp/ui/widgets/rate_star.dart';
-import 'package:foodapp/util/auth.dart';
+import 'package:HotelsHN/models/request.dart';
+import 'package:HotelsHN/models/user.dart';
+import 'package:HotelsHN/ui/screens/profile.dart';
+import 'package:HotelsHN/ui/widgets/rate_star.dart';
+import 'package:HotelsHN/util/auth.dart';
 import 'package:url_launcher/url_launcher.dart';
 
 class CardInfomation extends StatefulWidget {

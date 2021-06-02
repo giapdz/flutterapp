@@ -1,6 +1,6 @@
 import 'package:flutter/material.dart';
-import 'package:foodapp/ui/screens/category_item.dart';
-import 'package:foodapp/fake_data.dart';
+import 'package:HotelsHN/ui/screens/category_item.dart';
+import 'package:HotelsHN/fake_data.dart';
 
 // class CategoriesPage extends StatefulWidget {
 //   const CategoriesPage();
