@@ -4,7 +4,7 @@ import 'dart:typed_data';
 import 'package:flutter/material.dart';
 import 'package:flutter/services.dart';
 import 'package:wemapgl/wemapgl.dart';
-import 'package:foodapp/wemap/main.dart';
+import 'package:HotelsHN/wemap/main.dart';
 
 import 'ePage.dart';
 

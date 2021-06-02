@@ -1,5 +1,5 @@
 import 'package:flutter/material.dart';
-import 'package:HotelsHN/models/food.dart';
+import 'package:HotelsHN/models/hotel.dart';
 import 'package:HotelsHN/ui/screens/map.dart';
 class DetailFoodPage extends StatelessWidget {
   Hotel hotel;

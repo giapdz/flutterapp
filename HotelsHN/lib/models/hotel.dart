@@ -1,5 +1,5 @@
 import 'dart:math';
-
+import 'package:wemapgl/wemapgl.dart';
 import 'category.dart';
 import 'package:flutter/cupertino.dart';
 class Hotel {
@@ -12,6 +12,7 @@ class Hotel {
   String Location;
   //one foods has many ingredients
   List<String> Convenients = List<String>();
+  LatLng coordinate;
   //reference: 1 Category has many Foods
   int categoryId;
   //constructor:
@@ -22,6 +23,7 @@ class Hotel {
     this.price,
     @required this.star,
     this.Location,
+    this.coordinate,
     this.Convenients,
     this.categoryId,
   }) {

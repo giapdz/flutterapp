@@ -1,6 +1,6 @@
 import 'package:flutter/material.dart';
 import 'package:location/location.dart';
-import 'package:foodapp/wemap/full_map.dart';
+import 'package:HotelsHN/wemap/full_map.dart';
 
 import 'animate_camera.dart';
 import 'full_map.dart';

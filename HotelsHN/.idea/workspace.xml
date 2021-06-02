@@ -1,5 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="NONE" />
+  </component>
   <component name="BranchesTreeState">
     <expand>
       <path>
@@ -20,7 +23,20 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="c4df9368-0ecc-493e-8c5d-eeaa4747b104" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/runConfigurations.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.flutter-plugins" beforeDir="false" afterPath="$PROJECT_DIR$/.flutter-plugins" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.flutter-plugins-dependencies" beforeDir="false" afterPath="$PROJECT_DIR$/.flutter-plugins-dependencies" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Flutter_Plugins.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/Flutter_Plugins.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/android/app/google-services.json" beforeDir="false" afterPath="$PROJECT_DIR$/android/app/google-services.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/fake_data.dart" beforeDir="false" afterPath="$PROJECT_DIR$/lib/fake_data.dart" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/generated_plugin_registrant.dart" beforeDir="false" afterPath="$PROJECT_DIR$/lib/generated_plugin_registrant.dart" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/models/food.dart" beforeDir="false" afterPath="$PROJECT_DIR$/lib/models/hotel.dart" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/ui/screens/detail_food_page.dart" beforeDir="false" afterPath="$PROJECT_DIR$/lib/ui/screens/detail_food_page.dart" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/ui/screens/foods_page.dart" beforeDir="false" afterPath="$PROJECT_DIR$/lib/ui/screens/foods_page.dart" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/wemap/main.dart" beforeDir="false" afterPath="$PROJECT_DIR$/lib/wemap/main.dart" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/wemap/place_fill.dart" beforeDir="false" afterPath="$PROJECT_DIR$/lib/wemap/place_fill.dart" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/test/widget_test.dart" beforeDir="false" afterPath="$PROJECT_DIR$/test/widget_test.dart" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -41,9 +57,10 @@
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="dart.analysis.tool.window.visible" value="false" />
     <property name="io.flutter.reload.alreadyRun" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/assets/icon" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="settings.editor.selected.configurable" value="AndroidSdkUpdater" />
     <property name="show.migrate.to.gradle.popup" value="false" />
   </component>
@@ -66,6 +83,7 @@
       <method v="2" />
     </configuration>
   </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="SvnConfiguration">
     <configuration />
   </component>
@@ -92,6 +110,10 @@
     <option name="oldMeFiltersMigrated" value="true" />
   </component>
   <component name="WindowStateProjectService">
+    <state x="449" y="148" key="#com.intellij.openapi.updateSettings.impl.PluginUpdateInfoDialog" timestamp="1622647955993">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="449" y="148" key="#com.intellij.openapi.updateSettings.impl.PluginUpdateInfoDialog/0.0.1536.824@0.0.1536.824" timestamp="1622647955993" />
     <state x="499" y="159" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog" timestamp="1622572195661">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
@@ -100,22 +122,22 @@
       <screen x="0" y="0" width="1536" height="824" />
     </state>
     <state x="549" y="153" key="FileChooserDialogImpl/0.0.1536.824@0.0.1536.824" timestamp="1622634011282" />
-    <state width="1340" height="193" key="GridCell.Tab.0.bottom" timestamp="1622642241582">
+    <state width="1342" height="193" key="GridCell.Tab.0.bottom" timestamp="1622648789871">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="1340" height="193" key="GridCell.Tab.0.bottom/0.0.1536.824@0.0.1536.824" timestamp="1622642241582" />
-    <state width="1340" height="193" key="GridCell.Tab.0.center" timestamp="1622642241582">
+    <state width="1342" height="193" key="GridCell.Tab.0.bottom/0.0.1536.824@0.0.1536.824" timestamp="1622648789871" />
+    <state width="1342" height="193" key="GridCell.Tab.0.center" timestamp="1622648789871">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="1340" height="193" key="GridCell.Tab.0.center/0.0.1536.824@0.0.1536.824" timestamp="1622642241582" />
-    <state width="1340" height="193" key="GridCell.Tab.0.left" timestamp="1622642241582">
+    <state width="1342" height="193" key="GridCell.Tab.0.center/0.0.1536.824@0.0.1536.824" timestamp="1622648789871" />
+    <state width="1342" height="193" key="GridCell.Tab.0.left" timestamp="1622648789870">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="1340" height="193" key="GridCell.Tab.0.left/0.0.1536.824@0.0.1536.824" timestamp="1622642241582" />
-    <state width="1340" height="193" key="GridCell.Tab.0.right" timestamp="1622642241582">
+    <state width="1342" height="193" key="GridCell.Tab.0.left/0.0.1536.824@0.0.1536.824" timestamp="1622648789870" />
+    <state width="1342" height="193" key="GridCell.Tab.0.right" timestamp="1622648789871">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="1340" height="193" key="GridCell.Tab.0.right/0.0.1536.824@0.0.1536.824" timestamp="1622642241582" />
+    <state width="1342" height="193" key="GridCell.Tab.0.right/0.0.1536.824@0.0.1536.824" timestamp="1622648789871" />
     <state x="426" y="189" key="run.anything.popup" timestamp="1622572437243">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
