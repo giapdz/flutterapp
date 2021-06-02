@@ -2,7 +2,7 @@ import 'package:flutter/material.dart';
 import 'package:HotelsHN/fake_data.dart';
 import 'package:HotelsHN/models/category.dart';
 import 'package:HotelsHN/models/hotel.dart';
-import 'detail_food_page.dart';
+import 'detail_hotel_page.dart';
 
 class FoodsPage extends StatelessWidget {
   static const String routeName = '/FoodsPage';

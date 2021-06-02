@@ -1,6 +1,6 @@
 import 'package:flutter/material.dart';
 import 'package:HotelsHN/models/category.dart';
-import 'foods_page.dart';
+import 'hotels_page.dart';
 class CategoryItem extends StatelessWidget {
   //1 categoryItem - 1 category object
   Category category;

@@ -7,7 +7,7 @@ import 'package:HotelsHN/ui/screens/login_page.dart';
 import 'package:HotelsHN/ui/screens/profile.dart';
 import 'package:HotelsHN/ui/screens/signup_page.dart';
 import 'package:HotelsHN/ui/screens/categories_page.dart';
-import 'package:HotelsHN/ui/screens/foods_page.dart';
+import 'package:HotelsHN/ui/screens/hotels_page.dart';
 import 'package:HotelsHN/util/state_widget.dart';
 import 'package:HotelsHN/ui/theme.dart';
 import 'package:HotelsHN/ui/screens/home.dart';

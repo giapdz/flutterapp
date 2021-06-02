@@ -23,20 +23,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="c4df9368-0ecc-493e-8c5d-eeaa4747b104" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/runConfigurations.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.flutter-plugins" beforeDir="false" afterPath="$PROJECT_DIR$/.flutter-plugins" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.flutter-plugins-dependencies" beforeDir="false" afterPath="$PROJECT_DIR$/.flutter-plugins-dependencies" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Flutter_Plugins.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/Flutter_Plugins.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/android/app/google-services.json" beforeDir="false" afterPath="$PROJECT_DIR$/android/app/google-services.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/lib/fake_data.dart" beforeDir="false" afterPath="$PROJECT_DIR$/lib/fake_data.dart" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/lib/generated_plugin_registrant.dart" beforeDir="false" afterPath="$PROJECT_DIR$/lib/generated_plugin_registrant.dart" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/lib/models/food.dart" beforeDir="false" afterPath="$PROJECT_DIR$/lib/models/hotel.dart" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/lib/ui/screens/detail_food_page.dart" beforeDir="false" afterPath="$PROJECT_DIR$/lib/ui/screens/detail_food_page.dart" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/lib/ui/screens/foods_page.dart" beforeDir="false" afterPath="$PROJECT_DIR$/lib/ui/screens/foods_page.dart" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/lib/wemap/main.dart" beforeDir="false" afterPath="$PROJECT_DIR$/lib/wemap/main.dart" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/lib/wemap/place_fill.dart" beforeDir="false" afterPath="$PROJECT_DIR$/lib/wemap/place_fill.dart" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/test/widget_test.dart" beforeDir="false" afterPath="$PROJECT_DIR$/test/widget_test.dart" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
