@@ -69,14 +69,17 @@ flutter:
     - assets/icon/icon.png
     - assets/images/default.png
     - assets/symbols/custom-icon.png
+    - assets/symbols/icon.png
     - assets/symbols/help.png
     - assets/symbols/origin.png
     - assets/symbols/destination.png
     - assets/symbols/2.0x/custom-icon.png
+    - assets/symbols/2.0x/icon.png
     - assets/symbols/2.0x/help.png
     - assets/symbols/2.0x/origin.png
     - assets/symbols/2.0x/destination.png
     - assets/symbols/3.0x/custom-icon.png
+    - assets/symbols/3.0x/icon.png
     - assets/symbols/3.0x/help.png
     - assets/symbols/3.0x/origin.png
     - assets/symbols/3.0x/destination.png

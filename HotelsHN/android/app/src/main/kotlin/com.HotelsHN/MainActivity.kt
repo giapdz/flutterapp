@@ -1,4 +1,4 @@
-package com.foodapp
+package com.HotelsHN
 
 import io.flutter.embedding.android.FlutterActivity
 

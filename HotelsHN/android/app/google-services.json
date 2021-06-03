@@ -7,6 +7,35 @@
   "client": [
     {
       "client_info": {
+        "mobilesdk_app_id": "1:131054765952:android:d24f8cbf52b6d6344ba365",
+        "android_client_info": {
+          "package_name": "com.HotelsHN"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "131054765952-0s81fskjuhd98be209m8r5qhp7imc8bf.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDe1kl2x7jdq5s9eQulC0pwmvI2RbbNuQo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "131054765952-0s81fskjuhd98be209m8r5qhp7imc8bf.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
         "mobilesdk_app_id": "1:131054765952:android:42ed4dbb132ed0a84ba365",
         "android_client_info": {
           "package_name": "com.foodapp"

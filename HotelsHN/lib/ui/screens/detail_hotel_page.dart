@@ -41,7 +41,7 @@ class DetailFoodPage extends StatelessWidget {
                     onPressed: () {
                   Navigator.of(context).push(
                   MaterialPageRoute(
-                  builder: (context) => FullMap()//send params using "constructor"
+                  builder: (context) => FullMap(hotel: hotel)//send params using "constructor"
                   )
                   );
                  },
